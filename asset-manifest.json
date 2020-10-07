@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/movies-list-app/static/css/main.03397465.chunk.css",
+    "main.js": "/movies-list-app/static/js/main.43182544.chunk.js",
+    "main.js.map": "/movies-list-app/static/js/main.43182544.chunk.js.map",
+    "runtime-main.js": "/movies-list-app/static/js/runtime-main.47261e27.js",
+    "runtime-main.js.map": "/movies-list-app/static/js/runtime-main.47261e27.js.map",
+    "static/js/2.931296e8.chunk.js": "/movies-list-app/static/js/2.931296e8.chunk.js",
+    "static/js/2.931296e8.chunk.js.map": "/movies-list-app/static/js/2.931296e8.chunk.js.map",
+    "index.html": "/movies-list-app/index.html",
+    "precache-manifest.95a82c397458ae6e3acdcbcb7e0df6db.js": "/movies-list-app/precache-manifest.95a82c397458ae6e3acdcbcb7e0df6db.js",
+    "service-worker.js": "/movies-list-app/service-worker.js",
+    "static/css/main.03397465.chunk.css.map": "/movies-list-app/static/css/main.03397465.chunk.css.map",
+    "static/js/2.931296e8.chunk.js.LICENSE.txt": "/movies-list-app/static/js/2.931296e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47261e27.js",
+    "static/js/2.931296e8.chunk.js",
+    "static/css/main.03397465.chunk.css",
+    "static/js/main.43182544.chunk.js"
+  ]
+}
